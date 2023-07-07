@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack developer with almost 2 and half years of experience in web development. 
+Full Stack developer with almost 3 years of experience in web development. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
